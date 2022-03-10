@@ -1,0 +1,88 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.sectionUm{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-color: #000102;
+    border: 20cm;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+/*
+    .caixa1, .caixa2 {
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    margin: auto;
+    border-radius: 20px;
+}
+*/
+
+.cabecalho{
+    width: 100%;
+    height: 100px;
+    margin-bottom: 100px;
+    
+}
+
+h4{
+    background-color: #1CD1B0;
+    
+}
+
+h1{
+    background-color: #00669F;
+    padding-top: 10px;
+    height: 80px;
+    text-align: justify;
+}
+
+.caixaPai{
+    margin: 30px;
+    
+}
+
+.caixa1{
+    background-color:rgb(107, 107, 107);
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    margin: auto;
+    border-radius: 20px;
+    
+}
+
+.caixa2{
+    background-color: rgb(200, 200, 200);
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.coracaoLike{
+    height: 25px;
+    width: 28px;
+    margin: 10px;
+    position: absolute;
+}
+
+.batCenario{
+    height: 204px;
+    width: auto;
+    border-radius: 20px;
+}
+
+.batimg{
+    border-radius: 50%;
+}

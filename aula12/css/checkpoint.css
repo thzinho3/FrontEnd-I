@@ -1,0 +1,17 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    
+}
+
+.h1DoCabeçalho{
+    display: inline-block;
+}
+
+.a1{
+    border: 10px;
+}

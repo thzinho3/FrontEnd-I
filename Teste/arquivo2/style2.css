@@ -1,0 +1,52 @@
+/* reset no css */
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* chamada das tags  */
+h4{
+background: #1cd1b0;
+    padding: 10px;
+}
+
+h1{
+    background-color: #00669F;
+    padding: 20px;
+}
+
+/* class's */
+
+.principal{
+    display: inline-block;
+    margin: 100px;
+}
+
+.caixaOne{
+    width: 70%;
+    height: 70%;
+    text-align: center;
+    margin: auto;
+    background-color: #f4f4f4;
+    border-radius:20px;
+}
+
+.coracaoLike{
+    width: 30px;
+    position: absolute;
+    margin-right: 1px;
+}
+
+.batimg{
+    border-radius: 100px;
+    position:absolute;
+    text-align: center;
+}
+
+.Arlequina{
+    border-radius: 100px;
+    position:absolute;
+    text-align: center;
+}
