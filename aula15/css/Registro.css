@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto & display=swap');
+
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    height: 100vh;
+}
+
+h1 {
+    padding: 20px;
+}
+
+#nome
+{
+    padding: 10px;
+}
+
+#submit
+{
+    padding: 10px;
+    background-color: rgb(4, 221, 210);
+    border-radius: 50px;
+}
+
+#Limpar
+{
+    padding: 10px;
+    background-color: rgb(160, 160, 160);
+    border-radius: 50px;
+}
+
+.cadastro {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cadastro input {
+    margin-bottom: 20px;
+}
+
+a
+{
+    color: rgb(248, 247, 247)
+}
+
+.box-form {
+    height: 60vh;
+    width: 40vw;
+    margin: 0 auto;
+}
+
+#submit:hover {
+    border-radius: 20px;
+    background-color: bisque;
+}
+
+.p-class 
+{
+    text-align: center;
+}

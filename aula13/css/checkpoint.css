@@ -1,0 +1,44 @@
+*
+{
+    border: 0;
+    margin: 0;
+}
+
+.section-container
+{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 500px;
+    justify-content: center;
+    
+}
+
+.nav-section
+{
+    width: 50%;
+    height: 100%;
+    background-color: aqua;
+    
+}
+
+.div-espacamento
+{
+    padding: 5px;
+}
+
+.nav-section-2
+{
+    width: 50%;
+    height: 100%;
+    background-color: yellow;
+}
+
+.div-image
+{
+    background-image: url("/aula13/img/img-checkpoint.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    
+}
